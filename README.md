@@ -1,4 +1,4 @@
-TFS Timestamp Manipulation Detection: Random Forest and SHAP
+NTFS Timestamp Manipulation Detection: Random Forest and SHAP
 
 **Code for the paper** "Random Forest and SHAP for Detecting Designated NTFS Timestamp Manipulation Targets within a NIST SP 800-86-Aligned Workflow" (Adnin Atmadewati Ashrini, Telkom University).
 
